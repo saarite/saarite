@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saarite
-- 👀 I’m interested in pharmacometrix and Analgesia postoperative pain medicine
+- 👀 I’m interested in Pharmacometrix and Postoperative pain Medicine
 - 🌱 I’m currently learning Bayesian
 - 💞️ I’m looking to collaborate on my research topics
-- 📫 How to reach me: Check my twitter account, @tsaari1 
+- 📫 How to reach me: Check my Bluesky account, @teisaari.bsky.social
